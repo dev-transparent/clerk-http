@@ -1,9 +1,9 @@
-name: clerk
+name: clerk-http
 version: 0.0.1
 authors:
-  - 
+  - Gary Mardell <info@garymardell.co.uk>
 description: |
-  - 
+  -
 crystal: ">= 0.35.1"
 dependencies:
   crest:
