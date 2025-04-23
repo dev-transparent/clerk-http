@@ -1,0 +1,7 @@
+moduleName: Clerk
+shardName: clerk
+shardAuthor: Gary Mardell
+shardAuthorEmail: info@garymardell.co.uk
+shardLicense: MIT
+shardVersion: 0.0.1
+sortParamsByRequiredFlag: true
